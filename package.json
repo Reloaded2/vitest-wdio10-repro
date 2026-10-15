@@ -1,0 +1,20 @@
+{
+  "name": "vitest-wdio10-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/browser": "^5.0.5",
+    "@vitest/browser-webdriverio": "^5.0.0",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.5",
+    "webdriverio": "^10.0.2"
+  },
+  "type": "module"
+}
